@@ -13,6 +13,8 @@
 Designed and deployed a cybersecurity homelab using Virtualbox to secure a Damn Vulnerable Web Application(DVWA) using Safeline Web Application Firewall.
 
 ## Tools
+| Tool | Purpose |
+| ---- | ------- |
 | VirtualBox | Virtualization Platform |
 | Kali Linux | Attack simulation |
 | Ubuntu Server | Web Server Host |
